@@ -72,7 +72,7 @@ public class FragmentFactory {
 
 
 ##### 效果：
- ![image](https://github.com/Eric3023/PointViewPager/blob/master/app/screenshoot/1.gif)
+ ![image](https://github.com/Eric3023/TabViewPager/blob/master/app/screenshoot/1.gif)
 
 #### 2.2 BottomTabFragmentViewPager
 布局文件中添加控件：
@@ -127,7 +127,7 @@ java代码中设置控件的属性
 ##### 效果：
 
 
- ![image](https://github.com/Eric3023/PointViewPager/blob/master/app/screenshoot/2.gif)
+ ![image](https://github.com/Eric3023/TabViewPager/blob/master/app/screenshoot/2.gif)
  
 
 #### 2.3 TopFragmentViewPager
@@ -181,5 +181,5 @@ java代码中设置控件的属性
 ```
 效果：
 
- ![image](https://github.com/Eric3023/PointViewPager/blob/master/app/screenshoot/3.gif)
+ ![image](https://github.com/Eric3023/TabViewPager/blob/master/app/screenshoot/3.gif)
  
